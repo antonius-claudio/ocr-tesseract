@@ -1,0 +1,11 @@
+.App {
+  background-color: #ffe1f2;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+form {
+  font-size: 20px;
+}
